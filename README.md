@@ -33,13 +33,6 @@ Currently shows:
 
 ---
 
-## 📦 Project Structure
-
-. ├── cloudformation/ │ └── ec2_alb_template.yaml # CloudFormation template to deploy EC2 + ALB └── README.md # You're here
-
-
----
-
 ## ⚙️ What This Project Does
 
 - Launches **two t2.micro EC2 instances**
