@@ -22,7 +22,13 @@ Hello from Instance-1 or Hello from Instance-2
 
 
 Currently shows:  
-**"Привет с Instance-2"** (which means "Hello from Instance-2")
+**"Привіт з Instance-2"** (which means "Hello from Instance-2")
+
+![изображение](https://github.com/user-attachments/assets/5fcfe048-fed9-4b5e-a20d-46818f3273cf)
+
+![изображение](https://github.com/user-attachments/assets/43756faf-a86b-4886-9952-f29128fc285b)
+
+
 
 ---
 
