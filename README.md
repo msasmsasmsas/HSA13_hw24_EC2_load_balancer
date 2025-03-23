@@ -35,7 +35,7 @@ Currently shows:
 
 ## ⚙️ What This Project Does
 
-- Launches **two t2.micro EC2 instances**
+- Launches **two t3.micro EC2 instances**
 - Installs **Apache HTTP Server**
 - Sets up a simple home page with a unique message per instance
 - Deploys an **Application Load Balancer**
