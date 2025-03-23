@@ -66,6 +66,9 @@ Make sure you have:
    - **Subnet1 / Subnet2**: two public subnets in different AZs
 5. Click **Next**, then **Create Stack**
 
+![изображение](https://github.com/user-attachments/assets/abb67e76-e7d9-4cfb-9af1-a3978ddad21a)
+
+
 In a few minutes, the stack will complete and provide the Load Balancer DNS in **Outputs**
 
 ---
