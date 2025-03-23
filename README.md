@@ -100,6 +100,9 @@ To avoid unwanted AWS charges:
 2. Select the stack (e.g., `my-test-stack`)
 3. Click **Delete**
 
+![изображение](https://github.com/user-attachments/assets/6962af89-448a-48f6-9b7e-21a1da955ede)
+
+
 ---
 
 ## 📄 License
