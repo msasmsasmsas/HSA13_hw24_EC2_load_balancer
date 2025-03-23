@@ -30,6 +30,7 @@ Currently shows:
 ![изображение](https://github.com/user-attachments/assets/5fcfe048-fed9-4b5e-a20d-46818f3273cf)
 
 
+![изображение](https://github.com/user-attachments/assets/8d95c559-4e22-4589-a2bf-218d02f7c459)
 
 ---
 
